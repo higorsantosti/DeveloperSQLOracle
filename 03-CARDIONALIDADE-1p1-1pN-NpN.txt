@@ -1,0 +1,7 @@
+CARDIONALIDADE
+
+1 p 1-entidade que uma tá ligada apenas a outra. ex: cpf, cada pessoa tem um unico CPF.
+
+1 p N(mtos)-uma entidade pode referenciar varias da outra e a outra tem que estar ligada somente a primaria. ex: programa de medico, cada usuario tem seus dependentes.
+
+N p N(muitos p muitos)-cada entidade pode referenciar multiplas unidades da outra. ex: sistema de bibliteca, cada autor pode ter varios livros.. como cada livro pode ter varios autores.

@@ -1,0 +1,17 @@
+Conceitor MER /modelo entidade relacionamento
+
+entidade fisicas:(ocupam espaco) pessoa, empresa, carro, pc, roupa..
+
+
+entidade logicas: (nao ocupam espaco) modelo, especie, funcao de um sistema ou usuario.
+
+---
+ENTIDADES:
+
+FORTE: entidde que possui sentido proprio
+
+
+FRACA: Entdade que necessita de outras p existir. ex: venda.. necessita de produtos p existir.
+
+ASSOSSIATIVA: surge qdo ha necessidade de assossiar a um relacionamento existente.
+

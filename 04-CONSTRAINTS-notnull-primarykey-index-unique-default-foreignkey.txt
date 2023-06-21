@@ -1,0 +1,9 @@
+CONTRAINTS
+
+NOT NULL --garante a coluna nao receber valor nulo.
+UNIQUE --garante que os valores de uma coluan sejam diferentes.
+PRIMARY KEY --chave unica
+FOREIGN KEY --referencia valor de uma campo de outra tabela
+DEFAULT --define valor padrao p coluna qdo o valor nao é especificado.
+
+INDEX --usado p criar e recuperar dados do banco de dados com melhor performance
